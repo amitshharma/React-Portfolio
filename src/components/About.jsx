@@ -14,11 +14,16 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-            Student who focuses on writing clean, elegant and efficient code. 
-            Always looking forward to grab challenging opportunities and working with 
-            sincerity utmost dedication to cross performance benchmarks and achieving 
-            targets in time. Seeking an opportunity to work and learn in the field of 
-            web-development which provides me the opportunity to improve my skills and knowledge.
+            I am a meticulous and detail-oriented developer who places a strong emphasis on writing clean, 
+    elegant, and efficient code. With a passion for web development, I constantly seek out challenging opportunities 
+    that push my boundaries and allow me to grow both personally and professionally.
+When approaching projects, I bring a high level of dedication and commitment to deliver exceptional results. 
+    I thrive on surpassing performance benchmarks and meeting targets within set timeframes, while maintaining a 
+    focus on quality and accuracy.
+I am eager to continue my journey in the field of web development, as it provides a constant opportunity for learning 
+    and improvement. I am driven by the desire to enhance my skills and knowledge, staying up-to-date with the latest 
+    industry trends and technologies. By embracing new challenges and learning experiences, I aim to continually evolve 
+    as a developer and contribute my best work to the web development community..
             </p>
             <br/>
         </div>
